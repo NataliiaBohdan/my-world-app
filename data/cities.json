@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Illescas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-21T17:46:13.885Z",
+      "notes": "",
+      "position": {
+        "lat": "40.1452892956766",
+        "lng": "-3.7792968750000004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Cantalapiedra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-21T17:50:00.420Z",
+      "notes": "",
+      "position": {
+        "lat": "41.11246878918088",
+        "lng": "-5.207519531250001"
+      },
+      "id": 2
+    }
+  ]
+}

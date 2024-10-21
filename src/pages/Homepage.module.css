@@ -1,0 +1,36 @@
+.homepage {
+  height: calc(100vh - 5rem);
+  margin: 2.5rem;
+}
+
+section img {
+  width: 70%;
+}
+
+.homepage section {
+  display: flex;
+  flex-direction: column;
+  padding: 5rem 12rem;
+  max-height: 700px;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  text-align: center;
+}
+
+.homepage h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 6rem;
+
+  color: #303335;
+}
+
+.homepage h2 {
+  padding: 0;
+  width: 90%;
+  font-size: 1.9rem;
+  font-weight: 300;
+  color: #535657;
+  margin-bottom: 5.5rem;
+}

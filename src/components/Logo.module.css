@@ -1,0 +1,15 @@
+.logo {
+  -webkit-text-stroke: 0.5px #478640;
+  font-weight: bold;
+  color: #ede6c4;
+  font-size: 3rem;
+  text-decoration: none;
+}
+
+.span {
+  color: #478640;
+  font-weight: bolder;
+}
+a {
+  text-decoration: none;
+}

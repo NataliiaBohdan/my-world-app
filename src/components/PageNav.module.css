@@ -1,0 +1,38 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.2rem 2rem;
+}
+.link {
+  color: #303335;
+}
+.link:hover {
+  color: #478640;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+}
+.nav a {
+  text-decoration: none;
+  font-size: 2rem;
+}
+/* CSS Modules feature */
+.nav a:global(.active) {
+  color: #478640;
+}
+
+a.ctaLink:link,
+a.ctaLink:visited {
+  background-color: #386f35;
+  color: #fff;
+  padding: 0.8rem 2rem;
+  border-radius: 7px;
+}
+.backButton {
+  color: #303335;
+}

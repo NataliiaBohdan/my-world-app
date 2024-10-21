@@ -1,0 +1,32 @@
+.login {
+  margin: 2.5rem;
+  min-height: calc(100vh - 5rem);
+}
+
+.form {
+  background-color: #ede6c4;
+  border-radius: 7px;
+  padding: 4rem 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+
+  width: 48rem;
+  margin: 14rem auto;
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.row input:active,
+.row input:focus {
+  background-color: #ffffff;
+  height: 4.2rem;
+  border: 1px solid #478640;
+}
+.row label {
+  color: #303335;
+}
